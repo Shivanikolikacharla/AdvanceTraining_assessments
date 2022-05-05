@@ -1,0 +1,31 @@
+package com.Product.entity;
+
+import java.math.BigDecimal;
+import java.util.Date;
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.Table;  
+
+@Entity
+@Table(name="product")
+public class Product {
+	
+@Id @Generated value
+@column(name="Id")
+private int Id;
+
+@column(name="Name")
+private	 String Name;
+
+@column(name="price")
+private	 long Price;
+
+@column(name="Quality")
+private	 String Quality;
+}
+}
+
+ 
+

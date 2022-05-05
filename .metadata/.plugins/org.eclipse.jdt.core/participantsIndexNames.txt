@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\newla\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1562340249.index
+\ShoppingCartApplication_1\src\main\resources
+C:\Users\newla\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1368112715.index
+\ShoppingCartApplication\src\main\resources
